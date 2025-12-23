@@ -33,5 +33,5 @@ Oi! Eu sou o João 👋
 
 
 <div>
-  ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=jotappe98&show_icons=true) 
+  
 </div>
