@@ -33,9 +33,5 @@ Oi! Eu sou o João 👋
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jotappe98&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotappe98&layout=compact&theme=github_dark" />
-</p>
 
 
